@@ -9,9 +9,9 @@ KELAS       : TI.23.A4    <br>
 MATAKULIAH  : Pemrograman Web2
 
 </td>
-<td align="right">
+
   <img src="https://github.com/user-attachments/assets/f30eae02-e20b-4e65-9d95-5ac4161de224" alt="Logo" height="80">
-</td>
+
 </tr>
 </table>
 
