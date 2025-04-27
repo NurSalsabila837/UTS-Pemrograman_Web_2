@@ -51,12 +51,12 @@ Setelah perintah di atas dijalankan, web app Anda bisa sudah bisa diakses
 ## Login
 Untuk login aplikasi silakan masukkan username dan password berikut
 
-Super Admin
+# Super Admin
 | Username | admin       |
 |----------|-------------|
 | Password | admin       |
 
-Staff
+# Staff
 | Username | stafftu     |
 |----------|-------------|
 | Password | stafftu     |
