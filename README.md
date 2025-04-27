@@ -7,10 +7,10 @@
 </div>
 
 ```
-NAMA        : Nur Salsabila  <br>
-NIM         : 312310344  <br>
-KELAS       : TI.23.A4    <br>
-MATAKULIAH  : Pemrograman Web2
+NAMA        : Nur Salsabila
+NIM         : 312310344
+KELAS       : TI.23.A4
+MATAKULIAH  : Pemrograman Web 2
 ```
 
 ## Installation / Instalasi
