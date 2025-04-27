@@ -2,12 +2,12 @@
 <div style="display: flex; justify-content: space-between; align-items: center; padding: 0 20px;">
 
 <div align="left">
-
+```
 NAMA        : Nur Salsabila  <br>
 NIM         : 312310344  <br>
 KELAS       : TI.23.A4    <br>
 MATAKULIAH  : Pemrograman Web2
-
+```
 </div>
 
 <div align="right">
