@@ -51,17 +51,18 @@ Setelah perintah di atas dijalankan, web app Anda bisa sudah bisa diakses
 ## Login
 Untuk login aplikasi silakan masukkan username dan password berikut
 
-# Super Admin
+### Super Admin
 | Username | admin       |
 |----------|-------------|
 | Password | admin       |
 
-# Staff
+### Staff
 | Username | stafftu     |
 |----------|-------------|
 | Password | stafftu     |
 
 
 ## License / Lisensi
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT).
 
-.
+© 2025 Nur Salsabila. All rights reserved.
