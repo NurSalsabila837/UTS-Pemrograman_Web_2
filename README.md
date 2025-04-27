@@ -4,7 +4,7 @@
 <td>
 
 NAMA        : Nur Salsabila  <br>
-NIM         : ISI NIM   <br>
+NIM         : 312310344  <br>
 KELAS       : TI.23.A4    <br>
 MATAKULIAH  : Pemrograman Web2
 
@@ -14,6 +14,7 @@ MATAKULIAH  : Pemrograman Web2
 </td>
 </tr>
 </table>
+
 
 ## Installation / Instalasi
 Pastikan versi php Anda telah mendukung Laravel 10. Setelah repo ini diclone, bukalah CLI dan posisikan direktori aktif ke repo ini.
