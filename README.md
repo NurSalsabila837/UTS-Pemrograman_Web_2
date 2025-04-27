@@ -1,16 +1,19 @@
 ## Aplikasi Pembayaran SPP
-<div align="right">
-  <img src="https://github.com/user-attachments/assets/f30eae02-e20b-4e65-9d95-5ac4161de224" alt="Logo" height="80">
-</div>
+<table width="100%">
+<tr>
+<td>
 
-```
-NAMA        : 
-NIM         : 
-KELAS       : TI.23.A4
+NAMA        : Nur Salsabila  <br>
+NIM         : ISI NIM   <br>
+KELAS       : TI.23.A4    <br>
 MATAKULIAH  : Pemrograman Web2
-```
 
-
+</td>
+<td align="right">
+  <img src="https://github.com/user-attachments/assets/f30eae02-e20b-4e65-9d95-5ac4161de224" alt="Logo" height="80">
+</td>
+</tr>
+</table>
 
 ## Installation / Instalasi
 Pastikan versi php Anda telah mendukung Laravel 10. Setelah repo ini diclone, bukalah CLI dan posisikan direktori aktif ke repo ini.
