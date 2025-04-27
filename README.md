@@ -1,10 +1,9 @@
 ## Aplikasi Pembayaran SPP
 
-<img src="https://github.com/user-attachments/assets/57fb1295-ce68-482b-8a73-f9bd5a5608d5">
-
 <div align="center">
-  
-  <img src="https://github.com/user-attachments/assets/f30eae02-e20b-4e65-9d95-5ac4161de224" alt="Logo" height="80">
+  <img src="https://github.com/user-attachments/assets/57fb1295-ce68-482b-8a73-f9bd5a5608d5" alt="Logo 1" height="80">
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://github.com/user-attachments/assets/f30eae02-e20b-4e65-9d95-5ac4161de224" alt="Logo 2" height="80">
 </div>
 
 ```
