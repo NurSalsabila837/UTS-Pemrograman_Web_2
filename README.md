@@ -1,4 +1,4 @@
-## Aplikasi Pembayaran SPP
+## Aplikasi Pembayaran SPP di SMK BRAHARI
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/57fb1295-ce68-482b-8a73-f9bd5a5608d5" alt="Logo 1" height="150">
