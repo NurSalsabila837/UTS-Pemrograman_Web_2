@@ -1,18 +1,16 @@
 ## Aplikasi Pembayaran SPP
 <div style="display: flex; justify-content: space-between; align-items: center; padding: 0 20px;">
 
-<div align="left">
-```
+<div align="left"> <div align="right">
+  <img src="https://github.com/user-attachments/assets/f30eae02-e20b-4e65-9d95-5ac4161de224" alt="Logo" height="80">
+</div>
 NAMA        : Nur Salsabila  <br>
 NIM         : 312310344  <br>
 KELAS       : TI.23.A4    <br>
 MATAKULIAH  : Pemrograman Web2
-```
 </div>
 
-<div align="right">
-  <img src="https://github.com/user-attachments/assets/f30eae02-e20b-4e65-9d95-5ac4161de224" alt="Logo" height="80">
-</div>
+
 
 </div>
 
