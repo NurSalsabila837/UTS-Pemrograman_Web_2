@@ -1,7 +1,4 @@
-<p align="center"><a href="https://laravel.com" target="_blank"><img src="" width="200" alt="![Image](https://github.com/user-attachments/assets/f30eae02-e20b-4e65-9d95-5ac4161de224)"></a></p>
-
-
-
+![Image](https://github.com/user-attachments/assets/f30eae02-e20b-4e65-9d95-5ac4161de224)
 ## Aplikasi Pembayaran SPP
 
 ## Installation / Instalasi
